@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games
 
-Hello!
+Hello! I am updating to try out actions on github.
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
